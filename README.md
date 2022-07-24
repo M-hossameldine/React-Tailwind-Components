@@ -6,3 +6,4 @@
 - [TypeScript](https://www.typescriptlang.org/) - Strongly typed programming language that build on JavaScript
 - [ReactJs](https://reactjs.org/) - Web FrameWork
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-First CSS Framework
+- [Tailwind Elements](https://tailwind-elements.com/) - Bootstrap components recreated with Tailwind CSS.
